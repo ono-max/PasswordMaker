@@ -24,11 +24,11 @@ After installing all files, type "python3 password.py" in terminal.
 
 ## Install(terminal)
 
-git clone https://github.com/ono-max/AdventureGame.git
+git clone https://github.com/ono-max/PasswordMaker.git
 
 ## Contribution
 
-1. Fork it ( https://github.com/ono-max/AdventureGame.git )
+1. Fork it ( https://github.com/ono-max/PasswordMaker.git )
 2. Create your feature branch (git checkout -b my-new-feature)
 3. Commit your changes (git commit -am 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
